@@ -1,0 +1,6 @@
+Spring Boot Security Role-based Authorization
+
+- Permission Details:
+	Role USER : view product list
+	Role EDITOR : view, create & edit products
+	Role ADMIn : view, create edit & delete products
